@@ -313,7 +313,6 @@
 
 <!-- Nav -->
 <nav>
-  <span class="nav-brand">Sumit <span>Priye</span></span>
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
     <li><a href="#experience">Experience</a></li>
